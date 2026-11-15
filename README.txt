@@ -1,0 +1,1 @@
+Upload index.html, profile.jpg and cv.pdf to the root of the existing sur1294/surbhikumar repository. Preserve the existing CNAME and GitHub Pages settings. For local preview, open index.html after extracting all files.
