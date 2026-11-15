@@ -1,1 +1,1 @@
-Upload index.html, profile.jpg and cv.pdf to the root of the existing sur1294/surbhikumar repository. Preserve the existing CNAME and GitHub Pages settings. For local preview, open index.html after extracting all files.
+Replace index.html in your existing GitHub repository. Keep profile.jpg, cv.pdf and the existing CNAME file. Dark mode is default; the sun/moon button switches themes and remembers your choice.
